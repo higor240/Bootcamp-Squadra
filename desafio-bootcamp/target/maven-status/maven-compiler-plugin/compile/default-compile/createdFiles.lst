@@ -1,0 +1,13 @@
+com\higor\desafio\entidades\Bairro.class
+com\higor\desafio\repository\MunicipioRepository.class
+com\higor\desafio\DesafioBootcampApplication.class
+com\higor\desafio\controller\UFController.class
+com\higor\desafio\entidades\Pessoa.class
+com\higor\desafio\controller\PessoaController.class
+com\higor\desafio\repository\PessoaRepository.class
+com\higor\desafio\entidades\UF.class
+com\higor\desafio\repository\UFRepository.class
+com\higor\desafio\controller\MunicipioController.class
+com\higor\desafio\entidades\Municipio.class
+com\higor\desafio\controller\BairroController.class
+com\higor\desafio\repository\BairroRepository.class
